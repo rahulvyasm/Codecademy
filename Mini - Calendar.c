@@ -43,4 +43,4 @@ int main() {
   scanf("%d", &days_left_to_add);
   add_days_to_date(&mm, &dd, &yy, days_left_to_add);
   printf("%d/%d/%d\n", dd, mm, yy);
-}
+} 
